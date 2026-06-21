@@ -28,15 +28,14 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Seus gráficos de Streak e Troféus alinhados lado a lado -->
   <img src="https://streak-stats.demolab.com?user=LuccaBrando&locale=pt&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/LuccaBrando/LuccaBrando/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=LuccaBrando&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Gráfico do Pacman centralizado -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuccaBrando/LuccaBrando/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuccaBrando/LuccaBrando/pacman-output/pacman-contribution-graph.svg?game=pacman">
