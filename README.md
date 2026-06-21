@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
+  <!-- Foto de Perfil Gerada -->
+  <img src="COLoque_O_LINK_DA_SUA_IMAGEM_AQUI" width="150" style="border-radius: 50%;" alt="Lucca Brandão">
 
-<!--
-**LuccaBrando/LuccaBrando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👋 Olá, eu sou o Lucca Brandão</h1>
+  
+  <p align="center">
+    <strong>Desenvolvedor Python | Especialista em Automações & Soluções de IA</strong>
+  </p>
 
-Here are some ideas to get you started:
+  <!-- Badges de Redes Sociais -->
+  <a href="https://www.linkedin.com/in/lucca-brand%C3%A3o-821044243/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <!-- Padronizei os ícones usando o mesmo estilo (Skill Icons) para ficar visualmente limpo -->
+  <img src="https://skillicons.dev/icons?i=py,html,css,github,visualstudio&theme=dark" alt="Minhas Tecnologias" />
+</div>
+
+<br />
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <!-- Seus gráficos de Streak e Troféus alinhados lado a lado -->
+  <img src="https://streak-stats.demolab.com?user=LuccaBrando&locale=pt&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/LuccaBrando/LuccaBrando/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Gráfico do Pacman centralizado -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuccaBrando/LuccaBrando/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuccaBrando/LuccaBrando/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuccaBrando/LuccaBrando/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  </picture>
+</div>
+
+---
