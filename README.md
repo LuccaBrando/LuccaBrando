@@ -1,7 +1,3 @@
-<div align="center">
-  <!-- Foto de Perfil Gerada -->
-  <img src="COLoque_O_LINK_DA_SUA_IMAGEM_AQUI" width="150" style="border-radius: 50%;" alt="Lucca Brandão">
-
   <h1>👋 Olá, eu sou o Lucca Brandão</h1>
   
   <p align="center">
