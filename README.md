@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LuccaBrando&locale=pt&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=LuccaBrando&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=LuccaBrando&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 <br />
